@@ -15,7 +15,7 @@ configure database mysql
 
     $py manage.py runserver
 
-  => add a user to database then add it to Unity :) 
+  => add a user to database then add it to Unity
 
    ![image](https://user-images.githubusercontent.com/107697556/174319668-6d202952-577d-4861-bcad-a241cf12928a.png)
 
