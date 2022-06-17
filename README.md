@@ -29,4 +29,4 @@ configure database mysql
     $py manage.py runserver
     
   2. run the unity app
-  3. enjoy add arts and configure your assistant from the website admin panel
+  3. enjoy add arts and configure your vocal assistant from the website admin panel
