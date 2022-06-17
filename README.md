@@ -21,7 +21,7 @@ configure database mysql
 
    ![image](https://user-images.githubusercontent.com/107697556/174319729-a3249055-995a-43ef-87f2-fe9a7ea5dd88.png)
 
-   then all is set.
+   all is set.
 # Get Started
 
   1. start django server
